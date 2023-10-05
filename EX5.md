@@ -78,10 +78,10 @@ WHERE empid = 1;
 SELECT * FROM employedd;
 
 -- Display the salary_logg table
-SELECT * FROM sal_logg;
+SELECT * FROM salll_logg;
 ```
 ### Output:
-![image](https://github.com/KameshLeVI/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/120780633/47bc769a-3617-4c41-94dd-08fb26bf23da)
+![Screenshot 2023-10-05 101553](https://github.com/KameshLeVI/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/120780633/9827c62c-2d67-4847-b0ec-aa0494ac20ae)
 
 
 ### Result:
