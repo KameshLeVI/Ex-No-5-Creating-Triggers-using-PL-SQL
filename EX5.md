@@ -81,7 +81,8 @@ SELECT * FROM employedd;
 SELECT * FROM sal_logg;
 ```
 ### Output:
-![271356292-6caf3238-451b-44b6-bf6c-a901cd1311b3](https://github.com/sivabalan28/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/113497347/4746d21f-7e3d-4a8b-ae75-455d346d1c9f)
+![image](https://github.com/KameshLeVI/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/120780633/47bc769a-3617-4c41-94dd-08fb26bf23da)
+
 
 ### Result:
 Thus , the output has been successfully verified.
